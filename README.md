@@ -21,5 +21,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Simulator Screen Recording - iPhone 13 Pro - 2022-09-25 at 21 58 28](https://user-images.githubusercontent.com/97072541/192179394-011d3c73-52f0-4e51-8409-5279a0e36306.gif)
 
