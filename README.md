@@ -6,9 +6,9 @@ This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 The following **required** functionality is completed:
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
 
@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[gif]
+![Simulator Screen Recording - iPhone 13 Pro - 2022-10-04 at 03 26 39](https://user-images.githubusercontent.com/97072541/193760070-0192fd62-7cf6-4a35-ad24-e97be08f6eb2.gif)
 
 # Project 3 - *Tweeter* - Part I
 
