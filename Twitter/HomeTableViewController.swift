@@ -45,6 +45,11 @@ class HomeTableViewController: UITableViewController {
         return cell
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        self.loadTweets()
+    }
+    
     @objc func loadTweets() {
         
         numberOfTweets = 20
